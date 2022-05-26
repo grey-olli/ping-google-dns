@@ -1,3 +1,5 @@
+// by grey-olli@ya.ru , based on stackoverflow & book samples. GNU GPL v2
+
 #include <cstdio>
 #include <iostream>
 #include <memory>
